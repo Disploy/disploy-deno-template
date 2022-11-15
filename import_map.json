@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "disploy": "npm:disploy@dev",
+    "std/": "https://deno.land/std@0.164.0/",
+    "fmt/": "https://deno.land/std@0.164.0/fmt/"
+  }
+}
